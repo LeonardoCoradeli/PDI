@@ -1,2 +1,2 @@
 
-# Repositório voltado ao aprendisado da materia de Processamento Digital de Imagens
+# Repositório voltado ao aprendizado da materia de Processamento Digital de Imagens
